@@ -1,0 +1,17 @@
+h2{
+    font-size: smaller;
+}
+span{
+    font-size: larger;
+    color: aquamarine;
+}
+.hosting{
+    width: 640px;
+    border: red 2px solid;
+    padding: 10px;
+}
+.loop{
+    width: 50%;
+    border: blue 3px dotted;
+    padding: 5px;
+}
